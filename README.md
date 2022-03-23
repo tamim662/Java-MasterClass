@@ -10,6 +10,7 @@ This repository consists of all codes of exercise and challenges from java maste
 
 **Here the code sample given below;**
 `code`
+
   public class Account {
     private String number;
     private double balance;
@@ -31,6 +32,7 @@ This repository consists of all codes of exercise and challenges from java maste
         this.customerEmailAddress = customerEmailAddress;
         this.customerPhoneNumber = customerPhoneNumber;
     }
+ }
     
    In that code, the 2nd constructor will called first for seeting default value in the 1st constructor and then "Empty constructor called" line will show as a output.
 

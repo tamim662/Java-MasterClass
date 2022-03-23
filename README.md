@@ -4,8 +4,8 @@ This repository consists of all codes of exercise and challenges from java maste
 
 ### Constructor Concept
 - Constructor allow us to initialize a object that we are going to create with some privilage(what we want to do at the time the object being created)
-- Constructor can be overloaded like methods. that meanswe can have more then one constructoraccording to the number of parameter changes.
-- We can add some default values to the constructorn while object will created with some default values despite having empty constructor called.
+- Constructor can be overloaded like methods. that means we can have more then one constructor according to the number of parameter changes.
+- We can add some default values to the constructor while object will created with some default values despite having empty constructor called.
 
 **Here the code sample given below;**
 

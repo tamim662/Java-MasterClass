@@ -12,8 +12,8 @@ Real World objects have two major characterisitcs.
 
 > Software objects are a fundamental part of OOP. A software object store its state in fields(variables) and they expose their behavior with methods. This is what an object in object-oriented programming terms.
 >> - And a class is a template or a blueprint for creating objects.
-   - Varibales in class = memeber variables = fields = state components
-   - A powerful mecanism is used to hide the fields and methods from access publicly and that is called Encapsulation.
+>> - Varibales in class = memeber variables = fields = state components
+>> - A powerful mecanism is used to hide the fields and methods from access publicly and that is called Encapsulation.
 
 ### Constructor Concept
 - Constructor allow us to initialize a object that we are going to create with some privilage(what we want to do at the time the object being created)

@@ -9,9 +9,9 @@ This repository consists of all codes of exercise and challenges from java maste
 - We can add some default values to the constructorn while object will created with some default values despite having empty constructor called.
 
 **Here the code sample given below;**
-`code`
 
-  public class Account {
+```java
+ public class Account {
     private String number;
     private double balance;
     private String customerName;
@@ -33,6 +33,7 @@ This repository consists of all codes of exercise and challenges from java maste
         this.customerPhoneNumber = customerPhoneNumber;
     }
  }
+ ```
     
    In that code, the 2nd constructor will called first for seeting default value in the 1st constructor and then "Empty constructor called" line will show as a output.
 

@@ -18,8 +18,8 @@ This repository consists of all codes of exercise and challenges from java maste
     private String customerEmailAddress;
     private String customerPhoneNumber;
 
-    public Account() {
-        this("56789", 2.50, "Default name", "Default address", "default phone"); // default constructor and it will call the same contsructor below with parameters with these default value.
+    public Account() { // Empty constructor
+        this("56789", 2.50, "Default name", "Default address", "default phone"); // constructor with default values and it will call the same contsructor below with parameters with these default value.
         System.out.println("Empty constructor called");
     }
 
@@ -35,5 +35,5 @@ This repository consists of all codes of exercise and challenges from java maste
  }
  ```
     
-   In that code, the 2nd constructor will called first for seeting default value in the 1st constructor and then "Empty constructor called" line will show as a output.
+   In that code, the 2nd constructor will called first for setting default value in the 1st constructor and then "Empty constructor called" line will show as a output.
 

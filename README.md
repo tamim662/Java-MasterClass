@@ -8,8 +8,8 @@ This repository consists of all codes of exercise and challenges from java maste
 - onstructor can be overloaded like methods. that meanswe can have more then one constructoraccording to the number of parameter changes.
 - We can add some default values to the constructorn while object will created with some default values despite having empty constructor called.
 
-** Here the code sample given below; **
-'''
+**Here the code sample given below;**
+`code`
   public class Account {
     private String number;
     private double balance;
@@ -31,4 +31,6 @@ This repository consists of all codes of exercise and challenges from java maste
         this.customerEmailAddress = customerEmailAddress;
         this.customerPhoneNumber = customerPhoneNumber;
     }
-'''
+    
+   In that code, the 2nd constructor will called first for seeting default value in the 1st constructor and then "Empty constructor called" line will show as a output.
+

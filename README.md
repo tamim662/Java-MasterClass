@@ -1,6 +1,19 @@
 # Java-MasterClass
 This repository consists of all codes of exercise and challenges from java masterclass course of Tim Buchalka's Learn Programming Academy.
 
+## Object-Oriented Programming
+Real World objects have two major characterisitcs.
+>> 1. The state
+>> 2. Behavior
+
+**Example:** For the Ant;
+- **The state:** The age, the number of legs, etc. 
+- **Behavior:** Eating, Carrying food, etc.
+
+> Software objects are a fundamental part of OOP. A software object store its state in fields(variables) and they expose their behavior with methods. This is what an object in object-oriented programming terms.
+>> - And a class is a template or a blueprint for creating objects.
+   - Varibales in class = memeber variables = fields = state components
+   - A powerful mecanism is used to hide the fields and methods from access publicly and that is called Encapsulation.
 
 ### Constructor Concept
 - Constructor allow us to initialize a object that we are going to create with some privilage(what we want to do at the time the object being created)

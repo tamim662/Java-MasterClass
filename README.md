@@ -30,7 +30,7 @@ Real World objects have two major characterisitcs.
     private String customerEmailAddress;
     private String customerPhoneNumber;
 
-    public Account() { // Empty constructor
+    public Account() { // First constructor
         this("56789", 2.50, "Default name", "Default address", "default phone"); // constructor with default values and it will call the same contsructor below with parameters with these default value.
         System.out.println("Empty constructor called");
     }

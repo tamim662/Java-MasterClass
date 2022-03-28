@@ -23,7 +23,7 @@ public class Main {
     }
 }
 ```
-==So static methods don't require an instance to be created we just typed a class name dot method name to access them.==
+> So static methods don't require an instance to be created we just typed a class name dot method name to access them.
 #### Instance Methods
 - Instance methods belong toan instance class.
 - To use an instance method we have to instantiate the class first by using **new** keyword.
@@ -46,4 +46,4 @@ public class Main() {
     }
 }
 ```
-==If a method itself use any fields(instance varibale) or instance methods it should probably be an instance method otherwise be a static method.==
+> If a method itself use any fields(instance varibale) or instance methods it should probably be an instance method otherwise be a static method.

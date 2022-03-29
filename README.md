@@ -50,3 +50,4 @@ Real World objects have two major characterisitcs.
    In that code, the 2nd constructor will called first for setting default value in the 1st constructor and then "Empty constructor called" line will show as a output.
 
 - [Difference between static methods and instance methods](https://github.com/tamim662/Java-MasterClass/blob/main/Topics/Static_vs_Instance_Methods.md#static-vs-instance-methods).
+- [Difference between static variables and instance variables](https://github.com/tamim662/Java-MasterClass/blob/main/Topics/Static_vs_Instance_variable.md#static-vs-instance-variable).

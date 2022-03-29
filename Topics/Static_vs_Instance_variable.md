@@ -29,7 +29,7 @@ public class Main {
 
 #### Instance varibale
 - Instance varibales are also known as fields or member variables.
-- Instance aribale belong to an instance of a class.
+- Instance varibale belong to an instance of a class.
 - Every instance has it's own copy of an instance variables.
 - Every instance can have different value(state).
 - Instance variables represents the state of an instance.

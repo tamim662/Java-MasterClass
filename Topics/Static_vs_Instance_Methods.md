@@ -5,7 +5,7 @@
     public static void func() {}
 ```
 - Static method can't access instances methods and instance variable directly.
-- They are usually used for operations that don't require any data from an instace of the class(from 'this'). **'this' keyword is current class instance variable.** 
+- They are usually used for operations that don't require any data from an instance of the class(from 'this'). **'this' keyword is current class instance variable.** 
 - Whenever you see a method that doesn't use instance variables that method should probably be declared as a static method.
 ```Java
 class Calculator {

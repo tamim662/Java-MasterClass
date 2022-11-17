@@ -14,6 +14,10 @@ Real World objects have two major characterisitcs.
 >> - And a class is a template or a blueprint for creating objects.
 >> - Varibales in class = memeber variables = fields = state components
 >> - A powerful mecanism is used to hide the fields and methods from access publicly and that is called Encapsulation.
+**Most understable Defination**: Object-Oriented Programming (OOP) is the term used to describe a programming 
+approach based on objects and classes. The object-oriented paradigm allows us 
+to organise software as a collection of objects that consist of both data and 
+behaviour.
 
 ### Constructor Concept
 - Constructor allow us to initialize a object that we are going to create with some privilage(what we want to do at the time the object being created)

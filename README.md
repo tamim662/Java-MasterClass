@@ -15,7 +15,7 @@ Real World objects have two major characterisitcs.
 >> - Varibales in class = memeber variables = fields = state components
 >> - A powerful mecanism is used to hide the fields and methods from access publicly and that is called Encapsulation.
 
-**Most understable Defination**: Object-Oriented Programming (OOP) is the term used to describe a programming 
+**Most understandable Defination**: Object-Oriented Programming (OOP) is the term used to describe a programming 
 approach based on objects and classes. The object-oriented paradigm allows us 
 to organise software as a collection of objects that consist of both data and 
 behaviour.
